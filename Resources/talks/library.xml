@@ -1,0 +1,13 @@
+<plist version="1.0">
+	<talk anchor="0" icon="library.png" name="志愿者：" content="学苑食堂前面就是南楼啦，平时你们上课都是在南北楼的~"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="嗯！咦？南北楼中间的是？"/>
+	<talk anchor="0" icon="library.png" name="志愿者：" content="哈，这就是图书馆啦！"/>
+	<talk anchor="0" icon="library.png" name="志愿者：" content="同济大学图书馆1934年正式建立。经过多次的搬迁与重建，至1990年建成现在的图书馆(总馆)，面积22225平方米。现在的图书馆由总馆、沪西分馆、沪北读者服务部、嘉定校区图书馆组成。"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="那这些图书馆我们都能去吗？"/>
+	<talk anchor="0" icon="library.png" name="志愿者：" content="当然可以！"/>
+	<talk anchor="0" icon="library.png" name="志愿者：" content="各校区间使用统一的集成管理系统并实行通借通还，2004年9月开始实行一门式管理。是全国高校图书馆中非常先进的管理制度，非常方便学生呢！"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="真棒！人一定很多吧..."/>
+	<talk anchor="0" icon="library.png" name="志愿者：" content="是的，期末排队占座的队伍很壮观呢！不过还是要注意遵守图书馆内的文明规范哦~"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="嗯嗯！"/>
+	<talk anchor="0" icon="library.png" name="志愿者：" content="嘿嘿，另外图书馆还常常会有人文类的展览、讲座、电影放映，可以关注哦~"/>
+</plist>

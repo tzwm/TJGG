@@ -1,0 +1,5 @@
+*.psd
+*.doc
+*.pptx
+*.zip
+Debug.win32/

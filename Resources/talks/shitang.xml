@@ -1,0 +1,12 @@
+<plist version="1.0">
+	<talk anchor="0" icon="shitang.png" name="志愿者：" content="午饭时间到啦，快去学苑食堂吧！"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="嗯！等等，这里怎么那么多人！"/>
+	<talk anchor="0" icon="shitang.png" name="志愿者：" content="哈，是各个社团学生组织在招新呢！"/>
+	<talk anchor="0" icon="shitang.png" name="志愿者：" content="每学期的前两周在和足球场之间的马路上都会有百团招新，同济的社团活动可是非常丰富的哟，星空演艺、职业发展协会、东篱剧社等等名牌社团都会在这里统一招人呢！加入他们，一定会让你有很多收获的！"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="哇！等吃完饭我一定来报名！食堂在哪里呢？"/>
+	<talk anchor="0" icon="shitang.png" name="志愿者：" content="沿着这条马路一直往下走最热闹的地方就是！"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="啊，果然很热闹呢！"/>
+	<talk anchor="0" icon="shitang.png" name="志愿者：" content="没错！开学初这里会有学生会、团委各个部门的招新，非常热闹。而平时，几乎每天这里都会有各种各样活动的宣传，各类讲座、活动、比赛都能在这里找到参加途径。想知道学校里最新鲜的活动咨询？到学苑食堂门口来就对了！"/>
+	<talk anchor="1" icon="hero.png" name="我：" content="哇塞！真是好期待未来丰富多彩的校园生活呢！现在该去吃饭啦！"/>
+	<talk anchor="0" icon="shitang.png" name="志愿者：" content="哈，快去吧！对了，学苑食堂三楼只有晚上才对学生开放，是各式西餐哦，非常好吃，也很实惠呢！"/>
+</plist>
