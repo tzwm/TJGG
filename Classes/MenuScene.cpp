@@ -24,12 +24,16 @@ bool MenuScene::init()
 		return false;
 	}
 
-	CCSprite* background = CCSprite::create("pic/menuBackground_new.png");
+	//CCSprite* background = CCSprite::create("pic/menuBackground_new.png");
+	CCSprite* background = CCSprite::create("pic/BG.jpg");
+	background->setScale(1.3);
 	background->setPosition(ccp(400, 303));
 	addChild(background);
 
-	CCSprite* title = CCSprite::create("pic/title.png");
-	title->setPosition(ccp(420, 450));
+	CCSprite* title = CCSprite::create("pic/title1.png");
+	title->setScale(1.6);
+	title->setRotation(330);
+	title->setPosition(ccp(230, 450));
 	title->runAction(CCScaleBy::create(0.1, 1.4));
 	addChild(title);
 
@@ -41,9 +45,9 @@ bool MenuScene::init()
 	CCSprite* playIcon = CCSprite::create("pic/play.png");
 	CCSprite* infoIcon = CCSprite::create("pic/info.png");
 	CCSprite* quitIcon = CCSprite::create("pic/quit.png");
-	playIcon->setPosition(ccp(360, 315));
+	playIcon->setPosition(ccp(300, 315));
 	this->addChild(playIcon);
-	quitIcon->setPosition(ccp(360, 225));
+	quitIcon->setPosition(ccp(300, 225));
 	this->addChild(quitIcon);
 
 
@@ -63,7 +67,7 @@ bool MenuScene::init()
 
 	CCMenu* menu = CCMenu::create(newMenu, quitMenu, NULL);
 	menu->alignItemsVertically();
-	menu->setPosition(ccp(500, 270));
+	menu->setPosition(ccp(400, 270));
 
 	int i=0;
 	CCNode* child;

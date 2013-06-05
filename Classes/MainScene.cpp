@@ -35,7 +35,7 @@ bool MainScene::init()
 	menu->setPosition(ccp(600, 400));
 	this->addChild(menu, 3);
 
-	map = (MapTiled*)MapTiled::create("maps/mapUp.tmx");
+	map = (MapTiled*)MapTiled::create("maps/mapUp1.tmx");
 	//map->runAction((CCScaleBy::create(0.1, 1)));
 	this->addChild(map, 0);
 
@@ -170,7 +170,7 @@ void MainScene::update(float dt)
 		}
 		if(finalLocation.y > map->getContentSize().height -64)
 		{
-			changeMap("maps/mapUp.tmx");
+			changeMap("maps/mapUp1.tmx");
 		}
 		if(finalLocation.x < 64)
 		{
